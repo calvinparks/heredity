@@ -2,7 +2,7 @@
 
 Heredity:
 
-An AI to assess the likelihood that a person will have a particular genetic trait **using joint probability Markov Chain**.
+An AI to assess the likelihood that a person will have a particular genetic trait (using joint probability Markov Chain).
 
 ## Description
 
